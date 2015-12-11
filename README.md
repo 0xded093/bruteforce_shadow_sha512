@@ -5,3 +5,5 @@ This is a sha512 implementation of a simple crypt() bruteforcer for /etc/shadow 
 This is useful for that kind of password:
 
 root:$6$saltsalt$encryptedpassword:16584:0:99999:7:::
+
+It read shadow from "passwords.txt" and dictionary from "dictionary.txt"
