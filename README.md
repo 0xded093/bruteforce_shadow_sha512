@@ -1,2 +1,7 @@
 # bruteforce_shadow_sha512
-A little python to bruteforce /etc/shadow file from a dictionary
+####A little python to bruteforce /etc/shadow file from a dictionary
+
+This is a sha512 implementation of a simple crypt() bruteforcer for /etc/shadow file.
+This is useful for that kind of password:
+
+root:$6$saltsalt$encryptedpassword:16584:0:99999:7:::
