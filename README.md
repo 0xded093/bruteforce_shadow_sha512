@@ -6,4 +6,4 @@ This is useful for that kind of password (Debian for istance)):
 
 root:$6$saltsalt$encryptedpassword:16584:0:99999:7:::
 
-It read shadow from "passwords.txt" and dictionary from "dictionary.txt"
+It read shadow from `passwords.txt` and dictionary from `dictionary.txt`
